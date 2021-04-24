@@ -1,5 +1,5 @@
 {
-  "name": "node-xlsx-style",
+  "name": "style-node-xlsx",
   "author": "suhli",
   "version": "0.15.0-style",
   "description": "NodeJS Excel files parser & builder",
