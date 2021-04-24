@@ -1,4 +1,4 @@
-import XLSX from 'xlsx-style';
+import XLSX from 'xlsx-styled';
 
 const ORIGIN_DATE = new Date(Date.UTC(1899, 11, 30));
 

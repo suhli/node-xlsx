@@ -1,4 +1,4 @@
-import XLSX from 'xlsx-style';
+import XLSX from 'xlsx-styled';
 import bufferFrom from 'buffer-from';
 import {buildSheetFromMatrix, isString} from './helpers';
 import Workbook from './workbook';
@@ -15,7 +15,7 @@ export const build = (worksheets, options = {}) => {
   const defaults = {
     bookType: 'xlsx',
     bookSST: false,
-    type: 'binary'
+    type: 'binary',
   };
   const workBook = new Workbook();
   worksheets.forEach((worksheet) => {
