@@ -1,7 +1,7 @@
 {
   "name": "style-node-xlsx",
   "author": "suhli",
-  "version": "0.15.2-style",
+  "version": "0.15.3-style",
   "description": "NodeJS Excel files parser & builder",
   "main": "lib/index.js",
   "scripts": {
