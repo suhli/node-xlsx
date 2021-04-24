@@ -1,7 +1,7 @@
 {
   "name": "style-node-xlsx",
   "author": "suhli",
-  "version": "0.15.3-style",
+  "version": "0.15.3-style-formula",
   "description": "NodeJS Excel files parser & builder",
   "main": "lib/index.js",
   "scripts": {
@@ -20,7 +20,7 @@
   "dependencies": {
     "buffer-from": "^1.1.1",
     "xlsx": "^0.14.4",
-    "xlsx-styled": "0.8.20"
+    "xlsx-styled": "0.8.20-formula"
   },
   "devDependencies": {
     "babel-cli": "^6.26.0",
