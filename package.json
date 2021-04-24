@@ -1,5 +1,5 @@
 {
-  "name": "node-xlsx",
+  "name": "node-xlsx-style",
   "author": "Olivier Louvignes <olivier@mg-crea.com>",
   "version": "0.15.0",
   "description": "NodeJS Excel files parser & builder",
@@ -14,7 +14,7 @@
     "build:watch": "yarn build -- -w",
     "prepublish": "yarn build"
   },
-  "repository": "github:mgcrea/node-xlsx",
+  "repository": "github:DickyNet/node-xlsx",
   "license": "Apache-2.0",
   "dependencies": {
     "buffer-from": "^1.1.1",
