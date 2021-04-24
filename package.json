@@ -14,7 +14,7 @@
     "build:watch": "yarn build -- -w",
     "prepublish": "yarn build"
   },
-  "repository": "github:DickyNet/node-xlsx",
+  "repository": "github:suhli/node-xlsx",
   "license": "Apache-2.0",
   "dependencies": {
     "buffer-from": "^1.1.1",
